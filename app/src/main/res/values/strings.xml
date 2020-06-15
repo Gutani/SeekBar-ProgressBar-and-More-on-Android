@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestingComponents</string>
+    <string name="string_testing_components">Testing Components</string>
+    <string name="switch_style_2_compound_button">Switch Style 2 - Compound Button</string>
+    <string name="switch_style_1_text_appearance">Switch Style 1 - Text Appearance</string>
+    <string name="validate_button">VALIDATE BUTTON</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="validate_progress_bar">VALIDATE PROGRESS BAR</string>
+    <string name="seekbar">SeekBar</string>
+</resources>

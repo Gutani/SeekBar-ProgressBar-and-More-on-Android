@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="switchStyle" parent="TextAppearance.AppCompat.Widget.Switch"></style>
+    <style name="switchStyle2" parent="Widget.AppCompat.CompoundButton.Switch"></style>
+    <style name="toggleButtonStyle" parent="Widget.AppCompat.DrawerArrowToggle"></style>
+
+    <style name="textView" parent="Widget.MaterialComponents.TextView"></style>
+</resources>
